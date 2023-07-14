@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: rgb(59, 59, 59);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 70px;
+}
+
+.wrapper{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+
+img{
+    width: 90px;
+    height: 90px;
+}
