@@ -1,4 +1,4 @@
-const imgNintendo = document.querySelector(".Nintendo");
+
 const array = [
     document.querySelector(".Nintendo"), 
     document.querySelector(".camara"),
